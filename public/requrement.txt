@@ -1,0 +1,36 @@
+1. Deferent name 
+2. Tesart or jama kapor related product use kora jaby na => Example : jota,mobilePhone, book
+3. Any api use kra jaby
+4. Api ar betor ja ja thakby = id, price, name,img
+5. 9/12 ta product lagbo
+6. ADD TO CARD text + ICON thakty hoby
+7.Website responsive mobile jonoo 1 colom, pc jonoo 3 colam, tab ar jonoo optional
+
+Cart 
+	8.Car ar betor nam + img {image optional},  lagbo + remove btn lagby {remove btn optional}
+
+	9.Cart 2 btn>  choose 1 for me btn => jy kno akta product dakhaby jy kno jaigai
+
+
+Bonas 
+	10.Distacaring use kurty hb
+
+	11.6ta commit kurty hb
+
+	12.Redmi file edit kra amr website ar nam + amr website ar live link redmi file a bosaty hoby
+
+	13.Choose agin nam a 2nd btn thakby cart a => otaty click kurly sob goli object kali hy jaby
+
+14.3ta Qi 
+	Q1: how react works
+	Q2: props vs state
+	Q3: how usestate works
+
+optional
+	Project ar description
+
+	Local storage
+
+	Jy product ak bar add asa 2ta bar add hoby na
+
+	4tar base add kora jaby na error deby
