@@ -19,10 +19,11 @@
 }
 .btn:hover{
   cursor: pointer;
-  background-color: #9dc6ff;
+  background-color: #183153;
+  color: white;
 }
 .btn:active{
-  background-color: aliceblue;
+  background-color: #1f4881;
 }
 .btn p{
   margin: 0;
